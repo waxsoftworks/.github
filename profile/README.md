@@ -1,1 +1,1 @@
-hello world
+https://wax.rest
